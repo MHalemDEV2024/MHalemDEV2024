@@ -92,11 +92,11 @@ My mission: create products that bridge **hardware and humans** — tools that d
 ## 🔴 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHalemDEV2024&show_icons=true&theme=radical&border_radius=12" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHalemDEV2024&theme=radical&border_radius=12" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalemDEV2024&layout=compact&theme=radical&border_radius=12" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MHalemDEV2024&show_icons=true&theme=radical&border_radius=12" alt="GitHub Stats"><br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHalemDEV2024&theme=radical&border_radius=12" alt="GitHub Streak"><br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalemDEV2024&layout=compact&theme=radical&border_radius=12" alt="Top Languages">
 </p>
 
 ---
