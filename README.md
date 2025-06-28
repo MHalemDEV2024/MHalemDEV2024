@@ -99,6 +99,7 @@ My mission: create products that bridge **hardware and humans** — tools that d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalemDEV2024&layout=compact&theme=radical&border_radius=12" alt="Top Languages">
 </p>
 
+
 ---
 
 
