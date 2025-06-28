@@ -101,13 +101,6 @@ My mission: create products that bridge **hardware and humans** — tools that d
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## 📊 Developer Skills (Technologies Heatmap)
 
@@ -121,9 +114,9 @@ My mission: create products that bridge **hardware and humans** — tools that d
 
 ## 🔴 Contact & Links
 
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 📫 **Email:** [halim@example.com](mailto:halim@example.com)
+- 🌐 **Portfolio:** [behance.net/mohamedsaeed207](https://www.behance.net/mohamedsaeed207)  
+- 💼 **LinkedIn:** [linkedin.com/in/mech-eng-mohamed-saeed/](https://www.linkedin.com/in/mech-eng-mohamed-saeed/)  
+- 📫 **Email:** [MHalem_DEV@outlook.com](mailto:MHalem_DEV@outlook.com)
 
 ---
 
