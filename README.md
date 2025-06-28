@@ -131,11 +131,24 @@ My mission: create products that bridge **hardware and humans** — tools that d
 
 ---
 
-## 📈 LeetCode Stats
+## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/MHalem_DEV?theme=dark&font=Baloo+Bhai+2&ext=activity" alt="LeetCode Stats Card">
+  <a href="https://leetcode.com/u/MHalem_DEV/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/MHalem_DEV1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/MHalem_DEV?theme=radical&ext=activity,contest" alt="LeetCode Stats"/>
+</p>
+
 ---
 
 ## 📊 Developer Skills (Technologies Heatmap)
