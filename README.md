@@ -89,33 +89,7 @@ My mission: create products that bridge **hardware and humans** — tools that d
 </p>
 
 ---
-## 🔴 GitHub Stats & Activity
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MHalemDEV2024&show_icons=true&theme=radical&border_radius=10&title_color=ff5555&icon_color=ff5555"
-    alt="GitHub Stats"
-    width="48%"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=MHalemDEV2024&theme=radical&border_radius=10&dates=ff5555"
-    alt="GitHub Streak"
-    width="48%"
-  />
-</p>
-
-<br><br>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalemDEV2024&layout=compact&theme=radical&border_radius=10&title_color=ff5555"
-    alt="Top Languages"
-    width="50%"
-  />
-</p>
-
----
 
 
 ## 🧠 Competitive Programming
