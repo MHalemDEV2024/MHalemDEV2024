@@ -115,11 +115,6 @@ My mission: create products that bridge **hardware and humans** — tools that d
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,cpp,bash,arduino,figma,xd,blender,git,github,firebase,webflow,linux&perline=8" />
 </p>
 
----
-
-## ⏳ Activity Graph (Weekly Contributions)
-
-[![Halim's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
