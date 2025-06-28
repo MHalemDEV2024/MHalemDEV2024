@@ -141,7 +141,7 @@ My mission: create products that bridge **hardware and humans** — tools that d
 ## 📊 Developer Skills (Technologies Heatmap)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,cpp,bash,arduino,figma,xd,blender,git,github,firebase,webflow,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,cpp,bash,arduino,figma,blender,git,github,firebase,webflow,linux&perline=8" />
 </p>
 
 
