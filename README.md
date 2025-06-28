@@ -89,15 +89,6 @@ My mission: create products that bridge **hardware and humans** — tools that d
 </p>
 
 ---
-
-
-## 🔴 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
----
 ## 🔴 GitHub Stats & Activity
 
 <p align="center">
@@ -121,7 +112,7 @@ My mission: create products that bridge **hardware and humans** — tools that d
 ## 📊 Developer Skills (Technologies Heatmap)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,tailwind,python,cpp,nodejs,bash,express,arduino,figma,xd,blender,git,github,firebase,vercel,webflow,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,cpp,bash,arduino,figma,xd,blender,git,github,firebase,webflow,linux&perline=8" />
 </p>
 
 ---
