@@ -116,20 +116,7 @@ My mission: create products that bridge **hardware and humans** — tools that d
 </p>
 
 ---
-## 🧠 Competitive Programming
 
-<p align="center">
-  <a href="https://leetcode.com/u/MHalem_DEV/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/MHalem_DEV1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
-</p>
-
-
----
 
 ## 🧠 Competitive Programming
 
