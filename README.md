@@ -131,6 +131,13 @@ My mission: create products that bridge **hardware and humans** — tools that d
 
 ---
 
+## 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/MHalem_DEV?theme=dark&font=Baloo+Bhai+2&ext=activity" alt="LeetCode Stats Card">
+</p>
+---
+
 ## 📊 Developer Skills (Technologies Heatmap)
 
 <p align="center">
