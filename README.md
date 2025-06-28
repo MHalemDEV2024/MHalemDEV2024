@@ -92,12 +92,29 @@ My mission: create products that bridge **hardware and humans** — tools that d
 ## 🔴 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHalemDEV2024&show_icons=true&theme=radical&border_radius=12" alt="GitHub Stats"><br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHalemDEV2024&theme=radical&border_radius=12" alt="GitHub Streak"><br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalemDEV2024&layout=compact&theme=radical&border_radius=12" alt="Top Languages">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MHalemDEV2024&show_icons=true&theme=radical&border_radius=10&title_color=ff5555&icon_color=ff5555"
+    alt="GitHub Stats"
+    width="48%"
+    style="margin:10px;"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=MHalemDEV2024&theme=radical&border_radius=10&dates=ff5555"
+    alt="GitHub Streak"
+    width="48%"
+    style="margin:10px;"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalemDEV2024&layout=compact&theme=radical&border_radius=10&title_color=ff5555"
+    alt="Top Languages"
+    width="50%"
+    style="margin-top:20px;"
+  />
+</p>
+
 
 
 ---
