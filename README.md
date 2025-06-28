@@ -98,6 +98,40 @@ My mission: create products that bridge **hardware and humans** — tools that d
 </p>
 
 ---
+## 🔴 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_radius=12" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&border_radius=12" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_radius=12" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📊 Developer Skills (Technologies Heatmap)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,tailwind,python,cpp,nodejs,bash,express,arduino,figma,xd,blender,git,github,firebase,vercel,webflow,linux&perline=8" />
+</p>
+
+---
+
+## ⏳ Activity Graph (Weekly Contributions)
+
+[![Halim's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 
 ## 🔴 Contact & Links
 
