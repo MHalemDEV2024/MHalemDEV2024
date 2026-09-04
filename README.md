@@ -12,7 +12,7 @@
 
 As a **Mechatronic Engineer**, I specialize in building **embedded systems** and **intelligent devices** that integrate **mechanical, electrical, and software components**. From low-level firmware to real-time sensor fusion, I’m passionate about engineering solutions that are both efficient and impactful.
 
-As the founder of **MEK.X**, I lead cross-functional projects combining **embedded electronics**, **UX/UI design**, and **web/mobile development** to create products that are **smart**, **user-focused**, and **future-ready**.
+As the founder of **ibdaion**, I lead cross-functional projects combining **embedded electronics**, **UX/UI design**, and **web/mobile development** to create products that are **smart**, **user-focused**, and **future-ready**.
 
 I bring a unique blend of:
 - ⚙️ Systems-level thinking from embedded & robotics
