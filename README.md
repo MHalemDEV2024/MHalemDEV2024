@@ -3,7 +3,7 @@
 <h1 align="center" style="color:crimson;">Hi, I'm Mohamed Saeed👋</h1>
 
 <p align="center">
-  🛠️ Mechatronic Engineer | 💻 UX/UI Designer | 🌐 Frontend Developer | 🚀 Founder of <strong style="color:crimson;">MEK.X</strong>
+  🛠️ Mechatronic Engineer | 💻 UX/UI Designer | 🌐 Frontend Developer | 🚀 Founder of <strong style="color:crimson;">ibdaion</strong>
 </p>
 
 ---
