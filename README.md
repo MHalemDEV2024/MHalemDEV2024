@@ -22,107 +22,86 @@
   <a href="mailto:MHalem_DEV@outlook.com"><img src="https://img.shields.io/badge/Email-303036?style=for-the-badge" alt="Email Mohamed" /></a>
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MHalemDEV2024&amp;label=Profile%20views&amp;color=7c3aed&amp;style=flat" alt="GitHub profile view count" />
 </p>
 
-About me
+---
 
-I work at the intersection of engineering, design, and technology, turning complex ideas into products that are useful, intuitive, and practical to build.
+## About me
 
-My background in mechatronics engineering shapes how I approach embedded systems, connected devices, and the integration of mechanical, electrical, and software components. As a Product & UX/UI Designer and Frontend Developer, I bring that systems thinking to digital experiences, from user flows and prototypes to responsive interfaces.
+I work at the intersection of **engineering, design, and technology**, turning complex ideas into products that are useful, intuitive, and practical to build.
 
-I founded Ibdaion, a human-centered product and technology studio where strategy, design, and engineering come together. We help ambitious teams build digital and physical products while developing our own products and ventures.
+My background in **mechatronics engineering** shapes how I approach embedded systems, connected devices, and the integration of mechanical, electrical, and software components. As a **Product & UX/UI Designer and Frontend Developer**, I bring that systems thinking to digital experiences, from user flows and prototypes to responsive interfaces.
 
-My focus: bridge hardware and human experience through thoughtful design and engineering.
+I founded **Ibdaion**, a human-centered product and technology studio where strategy, design, and engineering come together. We help ambitious teams build digital and physical products while developing our own products and ventures.
 
-What I do
+**My focus: bridge hardware and human experience through thoughtful design and engineering.**
 
-Area
+## What I do
 
-Focus
+| Area | Focus |
+| :--- | :--- |
+| **Product & UX/UI design** | User research, information architecture, user flows, prototypes, and design systems |
+| **Web & mobile development** | Responsive websites, frontend applications, and mobile interfaces |
+| **Embedded systems & IoT** | Firmware, sensor integration, connected devices, and hardware prototypes |
+| **Industrial design & prototyping** | CAD modeling, physical product concepts, and mechanical integration |
+| **Studio & venture building** | Connecting product strategy, design, and implementation at Ibdaion |
 
-Product & UX/UI design
+## Technologies & tools
 
-User research, information architecture, user flows, prototypes, and design systems
-
-Web & mobile development
-
-Responsive websites, frontend applications, and mobile interfaces
-
-Embedded systems & IoT
-
-Firmware, sensor integration, connected devices, and hardware prototypes
-
-Industrial design & prototyping
-
-CAD modeling, physical product concepts, and mechanical integration
-
-Studio & venture building
-
-Connecting product strategy, design, and implementation at Ibdaion
-
-Technologies & tools
-
-Web & mobile
+### Web & mobile
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter&amp;perline=7" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Flutter" />
 </p>
 
-Programming & embedded systems
+### Programming & embedded systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,arduino&amp;perline=7" alt="C, C++, Python, Bash, Arduino" />
 </p>
 
-Also working with: ESP32 · Embedded C · Sensors · PCB design · IoT prototyping
+**Also working with:** ESP32 · Embedded C · Sensors · PCB design · IoT prototyping
 
-Design & prototyping
+### Design & prototyping
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,xd,blender&amp;perline=7" alt="Figma, Adobe XD, Blender" />
 </p>
 
-Design practice: User research · Wireframing · Interaction design · Design systems · Fusion 360 · SolidWorks
+**Design practice:** User research · Wireframing · Interaction design · Design systems · Fusion 360 · SolidWorks
 
-Platforms & workflow
+### Platforms & workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,webflow,notion&amp;perline=7" alt="Git, GitHub, Linux, Firebase, Webflow, Notion" />
 </p>
 
-Collaboration: Trello · Slack
+**Collaboration:** Trello · Slack
 
-How I approach products
+## How I approach products
 
-Understand the problem. Start with people, their needs, and the business context.
+- **Understand the problem.** Start with people, their needs, and the business context.
+- **Consider the whole system.** Connect the interface, software, and hardware requirements.
+- **Make ideas tangible.** Use wireframes, prototypes, and working builds to test assumptions.
+- **Refine through feedback.** Improve usability, accessibility, and technical performance.
 
-Consider the whole system. Connect the interface, software, and hardware requirements.
+## A little more about me
 
-Make ideas tangible. Use wireframes, prototypes, and working builds to test assumptions.
+- I enjoy projects where physical products and digital experiences meet.
+- I use Figma to explore interactions before bringing them to life in code.
+- I care about how a product works, how it feels, and how it fits into everyday life.
 
-Refine through feedback. Improve usability, accessibility, and technical performance.
+## Let's connect
 
-A little more about me
+Have a product idea or a project that brings design and engineering together? **Let's talk.**
 
-I enjoy projects where physical products and digital experiences meet.
-
-I use Figma to explore interactions before bringing them to life in code.
-
-I care about how a product works, how it feels, and how it fits into everyday life.
-
-Let's connect
-
-Have a product idea or a project that brings design and engineering together? Let's talk.
-
-Studio: ibdaion.com
-
-Portfolio: behance.net/mohamedsaeed207
-
-LinkedIn: Mohamed Saeed
-
-Email: MHalem_DEV@outlook.com
+- **Studio:** [ibdaion.com](https://ibdaion.com)
+- **Portfolio:** [behance.net/mohamedsaeed207](https://www.behance.net/mohamedsaeed207)
+- **LinkedIn:** [Mohamed Saeed](https://www.linkedin.com/in/mech-eng-mohamed-saeed/)
+- **Email:** [MHalem_DEV@outlook.com](mailto:MHalem_DEV@outlook.com)
 
 <p align="center">
   <strong>Thoughtful design. Practical engineering. Products with purpose.</strong>
