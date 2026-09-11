@@ -1,150 +1,133 @@
-<!-- GitHub Profile README -->
-
-<h1 align="center" style="color:crimson;">Hi, I'm Mohamed Saeed👋</h1>
+<!-- GitHub Profile README — Mohamed Saeed -->
 
 <p align="center">
-  🛠️ Mechatronic Engineer | 💻 UX/UI Designer | 🌐 Frontend Developer | 🚀 Founder of <strong style="color:crimson;">ibdaion</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4C1D95,100:8B5CF6&amp;height=140&amp;section=header&amp;animation=twinkling" width="100%" alt="Purple animated header" />
 </p>
 
----
-
-## 🔴 About Me
-
-As a **Mechatronic Engineer**, I specialize in building **embedded systems** and **intelligent devices** that integrate **mechanical, electrical, and software components**. From low-level firmware to real-time sensor fusion, I’m passionate about engineering solutions that are both efficient and impactful.
-
-As the founder of **ibdaion**, I lead cross-functional projects combining **embedded electronics**, **UX/UI design**, and **web/mobile development** to create products that are **smart**, **user-focused**, and **future-ready**.
-
-I bring a unique blend of:
-- ⚙️ Systems-level thinking from embedded & robotics
-- 🎨 Design empathy from UX/UI  
-- 🧠 Frontend logic and performance optimization  
-
-My mission: create products that bridge **hardware and humans** — tools that don’t just function, but inspire.
-
----
-
-### 🔴 Technologies & Tools
-
-#### 💻 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-</p>
-
-#### ⚙️ Backend & Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
-</p>
-
-#### 🔌 Embedded Systems & IoT
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sensors-6DB33F?style=flat&logo=simpleicons&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PCB%20Design-43B02A?style=flat&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-007ACC?style=flat&logo=internetofthings&logoColor=white"/>
-</p>
-
-#### 🎨 UI/UX & Product Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma%20Design%20System-000000?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/User%20Research-4CAF50?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
-</p>
-
-#### 🛠️ CAD, 3D, and Prototyping
-<p>
-  <img src="https://img.shields.io/badge/Fusion%20360-FFB600?style=flat&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SolidWorks-E32127?style=flat&logo=solidworks&logoColor=white"/>
-</p>
-
-#### 🚀 DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-</p>
-
-#### 🌐 No-Code & Web Platforms
-<p>
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white"/>
-</p>
-
-#### 🧠 Productivity & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-</p>
-
----
-
-
-
-## 🧠 Competitive Programming
+<h1 align="center">Hi, I'm Mohamed Saeed 👋</h1>
 
 <p align="center">
-  <a href="https://leetcode.com/u/MHalem_DEV/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/MHalem_DEV1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+  <strong>Mechatronics Engineer · Product &amp; UX/UI Designer · Frontend Developer</strong><br />
+  Founder of <a href="https://ibdaion.com"><strong>Ibdaion</strong></a>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/MHalem_DEV?theme=radical&ext=activity,contest" alt="LeetCode Stats"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=55&amp;lines=Connecting+hardware%2C+software%2C+and+people.;Designing+clear%2C+useful+product+experiences.;Building+digital+and+physical+products." width="680" alt="Connecting hardware, software, and people. Designing clear, useful product experiences. Building digital and physical products." />
 </p>
 
----
-
-## 📊 Developer Skills (Technologies Heatmap)
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,cpp,bash,arduino,figma,blender,git,github,firebase,webflow,linux&perline=8" />
+  <a href="https://ibdaion.com"><img src="https://img.shields.io/badge/Ibdaion-7C3AED?style=for-the-badge" alt="Ibdaion website" /></a>
+  <a href="https://www.behance.net/mohamedsaeed207"><img src="https://img.shields.io/badge/Portfolio-1769FF?style=for-the-badge&amp;logo=behance&amp;logoColor=white" alt="Behance portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mech-eng-mohamed-saeed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn profile" /></a>
+  <a href="mailto:MHalem_DEV@outlook.com"><img src="https://img.shields.io/badge/Email-303036?style=for-the-badge" alt="Email Mohamed" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MHalemDEV2024&amp;label=Profile%20views&amp;color=7c3aed&amp;style=flat" alt="GitHub profile view count" />
+</p>
 
----
+About me
 
+I work at the intersection of engineering, design, and technology, turning complex ideas into products that are useful, intuitive, and practical to build.
 
-## 🔴 Contact & Links
+My background in mechatronics engineering shapes how I approach embedded systems, connected devices, and the integration of mechanical, electrical, and software components. As a Product & UX/UI Designer and Frontend Developer, I bring that systems thinking to digital experiences, from user flows and prototypes to responsive interfaces.
 
-- 🌐 **Portfolio:** [behance.net/mohamedsaeed207](https://www.behance.net/mohamedsaeed207)  
-- 💼 **LinkedIn:** [linkedin.com/in/mech-eng-mohamed-saeed/](https://www.linkedin.com/in/mech-eng-mohamed-saeed/)  
-- 📫 **Email:** [MHalem_DEV@outlook.com](mailto:MHalem_DEV@outlook.com)
+I founded Ibdaion, a human-centered product and technology studio where strategy, design, and engineering come together. We help ambitious teams build digital and physical products while developing our own products and ventures.
 
----
+My focus: bridge hardware and human experience through thoughtful design and engineering.
 
-## 🔴 Quote I Live By
+What I do
 
-> “Innovation distinguishes between a leader and a follower.” – Steve Jobs
+Area
 
----
+Focus
 
-## 🔴 Fun Facts
+Product & UX/UI design
 
-- ⚙️ I blend code, hardware, and design into real-world devices  
-- ✨ I use Figma before code to shape how products *feel*  
-- 🧩 I lead a studio where mechanical meets digital thinking
+User research, information architecture, user flows, prototypes, and design systems
 
----
+Web & mobile development
+
+Responsive websites, frontend applications, and mobile interfaces
+
+Embedded systems & IoT
+
+Firmware, sensor integration, connected devices, and hardware prototypes
+
+Industrial design & prototyping
+
+CAD modeling, physical product concepts, and mechanical integration
+
+Studio & venture building
+
+Connecting product strategy, design, and implementation at Ibdaion
+
+Technologies & tools
+
+Web & mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter&amp;perline=7" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Flutter" />
+</p>
+
+Programming & embedded systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,arduino&amp;perline=7" alt="C, C++, Python, Bash, Arduino" />
+</p>
+
+Also working with: ESP32 · Embedded C · Sensors · PCB design · IoT prototyping
+
+Design & prototyping
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,blender&amp;perline=7" alt="Figma, Adobe XD, Blender" />
+</p>
+
+Design practice: User research · Wireframing · Interaction design · Design systems · Fusion 360 · SolidWorks
+
+Platforms & workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,webflow,notion&amp;perline=7" alt="Git, GitHub, Linux, Firebase, Webflow, Notion" />
+</p>
+
+Collaboration: Trello · Slack
+
+How I approach products
+
+Understand the problem. Start with people, their needs, and the business context.
+
+Consider the whole system. Connect the interface, software, and hardware requirements.
+
+Make ideas tangible. Use wireframes, prototypes, and working builds to test assumptions.
+
+Refine through feedback. Improve usability, accessibility, and technical performance.
+
+A little more about me
+
+I enjoy projects where physical products and digital experiences meet.
+
+I use Figma to explore interactions before bringing them to life in code.
+
+I care about how a product works, how it feels, and how it fits into everyday life.
+
+Let's connect
+
+Have a product idea or a project that brings design and engineering together? Let's talk.
+
+Studio: ibdaion.com
+
+Portfolio: behance.net/mohamedsaeed207
+
+LinkedIn: Mohamed Saeed
+
+Email: MHalem_DEV@outlook.com
 
 <p align="center">
-  Thanks for visiting my profile!  
-  ⭐️ Star my repos if they inspire you. Let’s build something impactful!
+  <strong>Thoughtful design. Practical engineering. Products with purpose.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4C1D95,100:8B5CF6&amp;height=100&amp;section=footer&amp;animation=twinkling" width="100%" alt="Purple animated footer" />
 </p>
