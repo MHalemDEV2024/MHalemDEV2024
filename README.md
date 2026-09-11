@@ -1,7 +1,8 @@
 <!-- GitHub Profile README — Mohamed Saeed -->
 
+<!-- Upload your supplied banner to assets/ibdaion-founder-banner.png in this repository. -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4C1D95,100:8B5CF6&amp;height=140&amp;section=header&amp;animation=twinkling" width="100%" alt="Purple animated header" />
+  <img src="ibdaion-founder-banner.png" width="100%" alt="Founder — Ibdaion. Human-centered product and technology studio. Strategy, design, engineering." />
 </p>
 
 <h1 align="center">Hi, I'm Mohamed Saeed 👋</h1>
